@@ -1,0 +1,33 @@
+.container{
+	display:table;
+	margin:10% auto;
+}
+.visor{
+	width:200px;
+	height:47px;
+	text-align:right;
+	padding-right:8px;
+	font-size:18px;
+	color:#444;
+}
+.visor:active{
+	background:#ecf0f1;
+}
+.btn-calculadora{
+	width:50px;
+	height:47px;
+	margin:4px 4px 0px 0px;
+	background:#fff;
+	border:1px solid #999;
+	color:#444;
+	cursor:pointer;
+}
+.btn-zero{
+	width:104px;
+}
+.btn-calculadora:active{
+	background:#AAC4C6;
+}
+.numero:active{
+	background:#ecf0f1;
+}
